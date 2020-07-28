@@ -6,12 +6,11 @@ public class lyc {
             if ((year % 400 == 0) || ((year % 4 == 0) && (year % 100 != 0)))
                 System.out.println(year + " is a leap year");
             return true;
-        }else if ( year % 4 == 0) && (year % 100 == 0){
-            
         }
         return false;
-
-        
     }
 }
+
+            
+    
         
