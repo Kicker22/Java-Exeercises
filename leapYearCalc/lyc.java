@@ -8,11 +8,6 @@ public class lyc {
             return true;
         }
 
-        
         return false;
     }
 }
-
-            
-    
-        
